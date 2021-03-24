@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Attendance Mark</string>
+    <string name="title_user_page">LOGIN</string>
+    <string name="user">Username</string>
+    <string name="password">Password</string>
+    <string name="login_button">Login</string>
+    <string name="goto_Button">Go to Login</string>
+    <string name="query_text">Forget username or password?</string>
+    <string name="create_account">Create your account</string>
+
+    <string name="welcome_msg">Welcome to Our App</string>
+    <string name="calendar_text">Attendance Calendar</string>
+
+    <string name="attendance_sheet">This is Our Last Activity</string>
+    <string name="absent">A</string>
+    <string name="P">P</string>
+</resources>
